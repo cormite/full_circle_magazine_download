@@ -6,9 +6,9 @@
 # https://github.com/cormite/full_circle_magazine_download
 #==========================================================
 
-special_files="issuePY01_en.pdf issuePY02_en.pdf issuePY03_en.pdf issuePY04_en.pdf issuePY05_en.pdf issuePY06_en.pdf issuePY07_en.pdf issuePY08_en.pdf issuePY09_en.pdf issuePY10_en.pdf issuePY11_en.pdf issuePY12_en.pdf issueSC01_en.pdf issueSE01_en.pdf issueUD01_en.pdf issueUU01_en.pdf issueVM01_en.pdf issueLO01_en.pdf issueLO02_en.pdf issueLO03_en.pdf issueIS01_en.pdf issueIS02_en.pdf issueBL01_en.pdf"
+special_files="issuePY01_en.pdf issuePY02_en.pdf issuePY03_en.pdf issuePY04_en.pdf issuePY05_en.pdf issuePY06_en.pdf issuePY07_en.pdf issuePY08_en.pdf issuePY09_en.pdf issuePY10_en.pdf issuePY11_en.pdf issuePY12_en.pdf issueSC01_en.pdf issueSE01_en.pdf issueUD01_en.pdf issueUU01_en.pdf issueVM01_en.pdf issueLO01_en.pdf issueLO02_en.pdf issueLO03_en.pdf issueLO04_en.pdf issueLO05_en.pdf issueIS01_en.pdf issueIS02_en.pdf issueIS03_en.pdf issueIS04_en.pdf issueIS05_en.pdf issueIS06_en.pdf issueBL01_en.pdf issueFC01_en.pdf issueCC01_en.pdf issueCC02_en.pdf issueCC03_en.pdf"
 first=1
-last=123
+last=130
 ROOT_DIR=`pwd`
 
 download_issues () {
