@@ -1,4 +1,5 @@
 full_circle_magazine_download
 =============================
 
-Download all issues and special editions to time in Full Circle Magazine
+Download issues from 1 to 142 and special editions from Full Circle Magazine
+
